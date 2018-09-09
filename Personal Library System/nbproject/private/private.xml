@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/personal/library/system/backg.jpeg</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/personal/library/system/PersonalLibrarySystem.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/borrowed/books/ManageBorrowedBooks.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/personal/library/system/Portal.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/borrowed/books/DisplayBorrowedBooks.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/personal/library/system/Displayallbookdetails.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/own/books/ManageOwnBooks.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/friend/details/UpdateForm.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/friend/details/DeleteFriendDetails.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/borrowed/books/RegisterBorrowedBook.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/friend/details/DisplayCurrentDetails.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/own/books/RegisterBook.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/personal/library/system/Friend.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/own/books/QueryBook.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/borrowed/books/DeregisterBorrowedBook.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/own/books/IssueBook.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/own/books/confirmissue.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/personal/library/system/Sqlregfrnd.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/own/books/ReturnBook.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/friend/details/RegisterFriend.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/own/books/QueryOutstandingBooks.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/friend/details/UpdateFriendDetails.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/personal/library/system/Book.java</file>
+            <file>file:/home/infinity/NetBeansProjects/Personal%20Library%20System/src/manage/friend/details/ManageFriendDetails.java</file>
+        </group>
+    </open-files>
+</project-private>
